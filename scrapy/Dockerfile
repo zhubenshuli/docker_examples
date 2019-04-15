@@ -1,4 +1,4 @@
-FROM python:3.5-alpine
+FROM python:3.8-rc-alpine
 MAINTAINER xuqingdi <zhubenshuli@gmail.com>
 
 RUN apk update \
